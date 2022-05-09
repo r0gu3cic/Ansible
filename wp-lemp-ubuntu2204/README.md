@@ -17,7 +17,7 @@ Options in var/default.yml:
 Usage:
 1. Obratin the playbook
 ```
-git clone 
+git clone https://github.com/r0gu3cic/ansible-projects.git
 ```
 ```
 cd ansible-projects/wp-lemp-ubuntu2204
