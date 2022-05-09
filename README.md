@@ -1,2 +1,2 @@
 # ansible-projects
-Collection of my DevOps projects
+Collection of my ansible projects
