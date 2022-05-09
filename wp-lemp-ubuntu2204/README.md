@@ -16,12 +16,17 @@ Options:
 
 Usage:
 1. Obratin the playbook
-- git clone 
-- cd ansible-projects/wp-lemp-ubuntu2204
+```
+git clone 
+cd ansible-projects/wp-lemp-ubuntu2204
+```
 
 2. Customize options
-- nano vars/default.yml
+```
+nano vars/default.yml
+```
 
 3. Run the playbook
-- ansible-playbook playbook.yml -l [target] -u [sudo user on target] --extra-vars 'ansible_become_pass=[sudo user password]'
-
+```
+ansible-playbook playbook.yml -l [target] -u [sudo user on target] --extra-vars 'ansible_become_pass=[sudo user password]'
+```
