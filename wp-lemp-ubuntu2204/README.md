@@ -5,7 +5,7 @@ This ansible playbook help me deploy WordPress and LEMP environment fast to the 
 With this project I have learned a little bit about ansible, CM, Nginx and Linux in general.
 This is only a POC, this is not production ready server configuration.
 
-Options:
+Options in var/default.yml:
 - mysql_root_password: The desired password for the root MySQL.
 - mysql_db: The name of the MySQL database that should be created for WordPress.
 - mysql_user: The name of the MySQL user that should be created for WordPress.
