@@ -18,6 +18,8 @@ Usage:
 1. Obratin the playbook
 ```
 git clone 
+```
+```
 cd ansible-projects/wp-lemp-ubuntu2204
 ```
 
