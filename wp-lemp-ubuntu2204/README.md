@@ -19,7 +19,7 @@ cd ansible-projects/wp-lemp-ubuntu2204
 
 2. Customize Options
 nano vars/default.yml
----
+
 #MySQL setings
 mysql_root_password: "mysqlrootpassword"
 mysql_db: "wordpress"
