@@ -1,9 +1,9 @@
 WordPress on LEMP (Linux, Nginx, MySQL, PHP) on Ubuntu 22.04 LTS
 
-I am starting my DevOps jurney, as I have learnt how to setup a WordPress site on Linux Server, I wanted to automate the proces using ansible.
-This ansible playbook help me deploy WordPress and LEMP environment fast to the new bare metal Linux server.
-With this project I have learned a little bit about ansible, CM, Nginx and Linux in general.
-This is only a POC, this is not production ready server configuration.
+I am starting my DevOps journey, as I have learned how to set up a WordPress site on Linux Server, I wanted to automate the process using ansible.
+This ansible-playbook help me deploy WordPress and LEMP environment fast to the new bare-metal Linux server.
+With this project, I have learned a little bit about ansible, CM, Nginx, and Linux in general.
+This is only a POC, this is not a production-ready server configuration.
 
 Options in var/default.yml:
 - mysql_root_password: The desired password for the root MySQL.
